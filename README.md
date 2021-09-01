@@ -8,9 +8,10 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=newnishad&label=Profile%20views&color=0e75b6&style=flat-square" alt="newnishad" />
  
+  <!--
   <h1>Public Projects</h1> 
-  
   | Project           | URL                                    | Description                        |
   |:-----------------:|:--------------------------------------:|:----------------------------------:|
-  | Socket.io Chat    | https://github.com/newnishad/socket.io | Simple Socket.IO chat project             |
+  | Socket.io Chat    | https://github.com/newnishad/socket.io | Simple Socket.IO chat project      |
+  -->
 </div>
